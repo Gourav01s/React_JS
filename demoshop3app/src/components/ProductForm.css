@@ -1,0 +1,33 @@
+.new-product_control{
+    color: black;
+    font-size: larger;
+    background-color: blanchedalmond;
+    margin-top: 20px;
+    padding:10px;
+    border-radius: 12px;
+}
+
+.new-product_title input {
+    color: black;
+    background-color: transparent;
+    margin-left: 15px;
+    /* border-color: transparent ; */
+    border-bottom-color: black;
+    border-radius: 4px;
+}
+
+.new-product_title input:focus {
+    border: none;
+    border-color: transparent;
+
+
+}
+
+.new-product_date input{
+    /* background-color: whitesmoke; */
+    margin: 15px;
+    border-color: transparent;
+    border-radius: 4px;
+    min-height: 15px;
+    min-width: 105px;
+}
