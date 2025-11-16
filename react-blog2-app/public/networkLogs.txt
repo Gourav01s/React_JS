@@ -1,0 +1,12 @@
+first time load:
+https://codehelp-apis.vercel.app/api/get-blogs?page=1
+
+blog tagged skills
+https://codehelp-apis.vercel.app/api/get-blogs?page=1&tag=Skills
+
+blogs on categories
+https://codehelp-apis.vercel.app/api/get-blogs?page=1&category=Web%20Development
+
+clicked on first title:
+
+https://codehelp-apis.vercel.app/api/get-blog?blogId=BLOG1000
